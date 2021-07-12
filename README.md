@@ -6,8 +6,9 @@ See Computational Flud Dynamics Book by John D. Anderson Jr. for the details of 
 
 To run the code
 
-'''
+```
 make 
 ./nozzle
-'''
+
+```
 
